@@ -7,7 +7,7 @@ Icarus Verilog(シミュレーター)とGtkWave(波形ビューア)のインス�
 ### Linux(Ubuntu)
   ```
   sudo apt install iverilog
-  sudo apt sintall gtkwave
+  sudo apt install gtkwave
   ```
 
 ### Windows
