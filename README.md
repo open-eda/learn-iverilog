@@ -15,5 +15,7 @@ Icarus Verilog(シミュレーター)とGtkWave(波形ビューア)のインス�
 下記のURLの場所からインストーラーをダウンロードして実行して下さい。
 
 http://bleyer.org/icarus/
+iverilog-v12-20220611-x64_setup [18.2MB]　をダウンロードしInstallerを起動
 
 - 'Install GTKWave'にチェックが入っているか確認してください。
+- デスクトップにアイコンを作るオプションがあるので作っておいた方が便利？
